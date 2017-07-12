@@ -1,13 +1,21 @@
 {
   "name": "@davidmuir/sleep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a method to wait for a given amount of time before returning a promise",
   "main": "index.js",
   "private": false,
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/davidMuir/sleep.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "David Muir <hey@davidmuir.co>",
+  "keywords": ["sleep", "async"],
+  "author": {
+      "name": "David Muir",
+      "email": "hey@davidmuir.co",
+      "url": "https://davidmuir.co"
+  },
   "license": "ISC"
 }
