@@ -1,0 +1,13 @@
+{
+  "name": "@davidmuir/sleep",
+  "version": "1.0.0",
+  "description": "Provides a method to wait for a given amount of time before returning a promise",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Muir <hey@davidmuir.co>",
+  "license": "ISC"
+}
